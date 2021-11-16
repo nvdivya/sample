@@ -1,0 +1,31 @@
+.changecolor{
+    color: white;
+}
+.backgroundcolor{
+    background-color: rgb(19, 58, 131);
+    column-width: 15px;
+}
+.space{
+    background-color: darkgray;
+    padding: 6px 5px;
+    
+}
+.space2{
+    padding-left: 10px;
+    background-color: gainsboro;
+    
+}
+.space1{
+    background-color: darkgray;
+    padding: 6px 5px;
+}
+p{
+    display: inline;
+}
+.progress{
+    font-size: 30px;
+}
+.date{
+    color: darkgray;
+    
+}
